@@ -1,5 +1,5 @@
 let factorial = require("./factorial");
-
+ 
 describe("Factorial", function () {
   test("Factorial", function () {
     let in1 = 5;
